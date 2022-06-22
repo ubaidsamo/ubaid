@@ -13,7 +13,7 @@ Q. What sort of data are the values? (cross all that apply)
 [ ] Discrete
 [ ] Ordinal
 [ ] Nominal
-[ ] Continuous
+[x] Continuous
 [ ] Interval
 [ ] Numerical
 ```
@@ -25,7 +25,7 @@ Q. If we want to know how many values are in our sample, which aggregation would
 [ ] Maximum
 [ ] Sum
 [ ] Count
-[ ] Average
+[x] Average
 [ ] Minimum
 [ ] Population
 ```
@@ -40,28 +40,28 @@ A.
 
 ```
 Q. What is the count of values in the dataset?
-A. 
+A. 67
 ```
 
 ```
 Q. What is the mean of values in the dataset?
-A. 
+A. 68
 
 ```
 
 ```
 Q. What is the mode of values in the dataset?
-A. 
+A. 66
 ```
 
 ```
 Q. What is the median of values in the dataset?
-A. 
+A. 69
 ```
 
 ```
 Q. What is the difference between "Distinct count of values" vs. "count of values"
-A. 
+A. Distinct value are unique values and count values are numbers
 ```
 
 
